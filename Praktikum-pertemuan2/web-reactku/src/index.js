@@ -11,14 +11,14 @@ import reportWebVitals from './reportWebVitals';
 //   document.getElementById('root')
 // );
 
-//praktikum
+//praktikum 1
 const Hello = () =>{
   return <p>Hello</p>
 }
 
 ReactDOM.render(<Hello />, document.getElementById('root'));
 
-// Praktikum B - Button
+// Praktikum 2 - Button
 const e = React.createElement;
 function LikeButton(){
   return e(
