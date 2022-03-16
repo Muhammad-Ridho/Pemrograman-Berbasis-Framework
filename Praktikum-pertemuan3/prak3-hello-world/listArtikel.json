@@ -1,0 +1,10 @@
+{
+  "posts":[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Jurusan Teknologi Informasi Politeknik Negeri Malang",
+      "body": "Malang"
+    }
+  ]
+}

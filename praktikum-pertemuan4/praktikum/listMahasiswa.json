@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nim": 180823453,
+      "nama": "Mahasiswa 1",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "081802023249",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "id": 1647403534686,
+      "nama": "Muhammad Ridho Ramadhan",
+      "nim": "19967687687",
+      "alamat": "malang",
+      "hp": "078686686",
+      "angkatan": "2019",
+      "status": "aktif"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Mahasiswa":[
+    {
+      "id": 1,
+      "nim": 1941720149,
+      "nama": "Muhammad Ridho Ramadhan",
+      "alamat": "Malang",
+      "hp": "085311891925",
+      "angkatan": 2019,
+      "status": "aktif"
+    }
+  ]
+}

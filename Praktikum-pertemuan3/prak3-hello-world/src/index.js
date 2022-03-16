@@ -4,8 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Login from './Login';
+import * as serviceWorker from './serviceWorker'
+import 'bootstrap/dist/css/bootstrap.min.css';
+// import BlogPost from "./container/BlogPost/BlogPost";
+import BlogMahasiswa from "./container/BlogMahasiswa/BlogMahasiswa";
 // import StateFullComponent from "./container/StateFullComponent";
-
 
 // ReactDOM.render(
 //   <React.StrictMode>
@@ -118,7 +121,12 @@ import Login from './Login';
 //   document.getElementById('root'));
 
 //Tugas : membuat halaman login
-ReactDOM.render(<Login />, document.getElementById('root'));
+// ReactDOM.render(<Login />, document.getElementById('root'));
+
+//Pertemuan 4 - API
+// ReactDOM.render(<BlogPost />, document.getElementById('content'));
+
+ReactDOM.render(<BlogMahasiswa />, document.getElementById('content'));
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
