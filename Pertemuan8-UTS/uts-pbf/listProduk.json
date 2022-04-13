@@ -1,0 +1,68 @@
+{
+    "microwave": [
+        {
+            "id": 1,
+            "nama": "KONKA Electric Oven 12L - KAO-1202E(S)",
+            "harga": 412000,
+            "gambar": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/12/1/a9cd303f-252d-40f8-9854-afe50694865e.jpg",
+            "stok": 50
+        },
+        {
+            "id": 2,
+            "nama": "Sharp Microwave R-728(K)-IN",
+            "harga": 1410400,
+            "gambar": "https://id.sharp/sites/default/files/styles/resize_640x640/public/2018-11/R-728%28S%29-IN.jpg?itok=wpS9mibC",
+            "stok": 50
+        },
+        {
+            "id": 3,
+            "nama": "KONKA Electric Oven 12L - KAO-1202E(S)",
+            "harga": 412000,
+            "gambar": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/12/1/a9cd303f-252d-40f8-9854-afe50694865e.jpg",
+            "stok": 50
+        },
+        {
+            "id": 4,
+            "nama": "Sharp Microwave R-728(K)-IN",
+            "harga": 1410400,
+            "gambar": "https://id.sharp/sites/default/files/styles/resize_640x640/public/2018-11/R-728%28S%29-IN.jpg?itok=wpS9mibC",
+            "stok": 50
+        },
+        {
+            "id": 5,
+            "nama": "KONKA Electric Oven 12L - KAO-1202E(S)",
+            "harga": 412000,
+            "gambar": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/12/1/a9cd303f-252d-40f8-9854-afe50694865e.jpg",
+            "stok": 50
+        },
+        {
+            "id": 6,
+            "nama": "KONKA Electric Oven 12L - KAO-1202E(S)",
+            "harga": 412000,
+            "gambar": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/12/1/a9cd303f-252d-40f8-9854-afe50694865e.jpg",
+            "stok": 50
+        },
+        {
+            "id": 7,
+            "nama": "Sharp Microwave R-728(K)-IN",
+            "harga": 1410400,
+            "gambar": "https://id.sharp/sites/default/files/styles/resize_640x640/public/2018-11/R-728%28S%29-IN.jpg?itok=wpS9mibC",
+            "stok": 50
+        },
+        {
+            "id": 8,
+            "nama": "KONKA Electric Oven 12L - KAO-1202E(S)",
+            "harga": 412000,
+            "gambar": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/12/1/a9cd303f-252d-40f8-9854-afe50694865e.jpg",
+            "stok": 50
+        },
+        {
+            "id": 9,
+            "nama": "Sharp Microwave R-728(K)-IN",
+            "harga": 1410400,
+            "gambar": "https://id.sharp/sites/default/files/styles/resize_640x640/public/2018-11/R-728%28S%29-IN.jpg?itok=wpS9mibC",
+            "stok": 50
+        }
+        
+    ]
+}

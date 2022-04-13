@@ -1,0 +1,18 @@
+{
+  "keranjang": [
+    {
+      "id": 2,
+      "nama": "KONKA Electric Oven 12L - KAO-1202E(S)",
+      "harga": 412000,
+      "stok": 50,
+      "qty": 2
+    },
+    {
+      "id": 1,
+      "nama": "KONKA Electric Oven 12L - KAO-1202E(S)",
+      "harga": 412000,
+      "stok": 50,
+      "qty": 3
+    }
+  ]
+}
