@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import '../App.css';
 
-import dp from "../img/dp.jpg";
-
 class About extends Component {
     render() {
         return (
