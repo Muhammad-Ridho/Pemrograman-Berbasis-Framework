@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1651022956104,
+      "title": "Muhammad Ridho Ramadhan",
+      "body": "TI3D_17"
+    },
+    {
+      "userId": 1,
+      "id": 1651022967684,
+      "title": "Muhammad",
+      "body": "1941720149"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
