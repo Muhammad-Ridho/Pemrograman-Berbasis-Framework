@@ -1,6 +1,6 @@
 import React from "react";
+import routes from './routes';
 import { Link } from "react-router-dom";
-import routes from "./routes";
 
 const Header = () => (
     <ul className="nav">
@@ -10,6 +10,6 @@ const Header = () => (
             </li>
         ))}
     </ul>
-);
+)
 
 export default Header;
